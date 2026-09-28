@@ -1,0 +1,13 @@
+{
+  "name": "decweb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de DEC idiomes",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "devDependencies": {
+    "vite": "^8.3.1"
+  }
+}

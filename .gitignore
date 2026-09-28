@@ -1,0 +1,5 @@
+node_modules/
+_originals/
+.gstack/
+.DS_Store
+.claude/
